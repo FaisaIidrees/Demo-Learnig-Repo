@@ -1,1 +1,2 @@
 second file
+I am making additional changes to check it through pull request on  command line git pull
